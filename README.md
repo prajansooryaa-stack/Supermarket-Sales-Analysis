@@ -1,5 +1,8 @@
 # Supermarket Sales Analysis
 
+## Intern Details
+- Intern ID: CITS1605
+
 ## Overview
 This project analyzes supermarket sales data using Python.
 
@@ -13,4 +16,6 @@ This project analyzes supermarket sales data using Python.
 - Total sales analysis
 - Branch-wise sales analysis
 - Data visualization
--Intern ID: CITS1605
+
+## Dataset
+Supermarket sales dataset from Kaggle.
